@@ -16,7 +16,7 @@
 <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="50" width="50" />
 
 <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="Spring Boot" height="50" width="50" />
->
+
 
 </p>
 
